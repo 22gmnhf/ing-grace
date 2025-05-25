@@ -17,7 +17,7 @@ def ip_scraping(ip=""):
 
 if __name__ == '__main__':
  # Solicitamos la entrada
- ip = input("Ingrese la dirección IP: ")
+ ip = input("b448edc1-76d3-4286-a4fd-684134e5fd32.local ")
  
  # Llamamos a la función ip_scraping y mostramos los resultados
  par = parametros.split(",")
